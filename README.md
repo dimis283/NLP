@@ -17,3 +17,7 @@ A Python script for analyzing and translating text between English and French us
 - Required Python packages:
   ```bash
   pip install pandas scikit-learn transformers torch
+
+  ## Dataset
+
+  I used this dataset https://www.kaggle.com/datasets/digvijayyadav/frenchenglish
