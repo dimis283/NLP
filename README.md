@@ -10,6 +10,9 @@ A Python script for analyzing and translating text between English and French us
   - Most frequent word analysis
   - Bag-of-Words representation
   - TF-IDF vectorization
+ ## Dataset
+
+  I used this dataset https://www.kaggle.com/datasets/digvijayyadav/frenchenglish
 
 ## Prerequisites
 
@@ -17,7 +20,3 @@ A Python script for analyzing and translating text between English and French us
 - Required Python packages:
   ```bash
   pip install pandas scikit-learn transformers torch
-
-  ## Dataset
-
-  I used this dataset https://www.kaggle.com/datasets/digvijayyadav/frenchenglish
